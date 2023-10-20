@@ -1,4 +1,4 @@
-# Movie-Favorites-Catalog-Website
+# Favorite Movies Catalog Website
 
 <img src="https://github.com/shaily29-eng/Movie-Favorites-Catalog-Website/assets/59019087/9c98d4c4-9377-4a66-9128-62e8c10bda25" width="400" height="400">
 
